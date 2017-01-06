@@ -1,0 +1,1 @@
+je fais ma première modification directement sur GITHUB, puis je la récupère depuis mon compte avec "git pull origin master" vers ma machine.  
