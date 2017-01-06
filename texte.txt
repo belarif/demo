@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 mon nouveau fichier
+=======
+je fais ma première modification directement sur GITHUB, puis je la récupère depuis mon compte avec "git pull origin master" vers ma machine.  
+>>>>>>> 8a018a6bb198f9bb94c79ec5ce438c2d9abc3579
+
+
+la je suis entrain de modifier sur ma machine locale
+
